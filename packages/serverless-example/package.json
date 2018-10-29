@@ -1,0 +1,12 @@
+{
+  "name": "serverless-example",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint-config-lambda": "^0.0.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "$npm_execpath run lint -- --fix"
+  }
+}

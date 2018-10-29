@@ -2,6 +2,7 @@
   "name": "learning-aws-lambda",
   "version": "0.0.0",
   "private": true,
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ninetails/learning-aws-lambda.git"
